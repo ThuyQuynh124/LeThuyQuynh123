@@ -15624,6 +15624,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\LeThuyQuynh123\\Views\\Companys\\Details.cshtml",
+      "TargetPath": "Views\\Companys\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\LeThuyQuynh123\\Views\\Companys\\Edit.cshtml",
+      "TargetPath": "Views\\Companys\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\LeThuyQuynh123\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -15644,8 +15654,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\LeThuyQuynh123\\Views\\Companys\\Index.cshtml",
+      "TargetPath": "Views\\Companys\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\LeThuyQuynh123\\Views\\Companys\\Delete.cshtml",
+      "TargetPath": "Views\\Companys\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\LeThuyQuynh123\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\LeThuyQuynh123\\Views\\Companys\\Create.cshtml",
+      "TargetPath": "Views\\Companys\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
