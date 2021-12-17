@@ -15639,6 +15639,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\LeThuyQuynh123\\Views\\LTQs\\Index.cshtml",
+      "TargetPath": "Views\\LTQs\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\LeThuyQuynh123\\Views\\LTQs\\Edit.cshtml",
+      "TargetPath": "Views\\LTQs\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\LeThuyQuynh123\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
@@ -15659,8 +15669,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\LeThuyQuynh123\\Views\\LTQs\\Delete.cshtml",
+      "TargetPath": "Views\\LTQs\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\LeThuyQuynh123\\Views\\Companys\\Delete.cshtml",
       "TargetPath": "Views\\Companys\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\LeThuyQuynh123\\Views\\LTQs\\Create.cshtml",
+      "TargetPath": "Views\\LTQs\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\LeThuyQuynh123\\Views\\LTQs\\Details.cshtml",
+      "TargetPath": "Views\\LTQs\\Details.cshtml",
       "FileKind": "mvc"
     },
     {

@@ -13,4 +13,6 @@ using LeThuyQuynh123.Models;
         }
 
         public DbSet<LeThuyQuynh123.Models.Company> Company { get; set; }
+
+        public DbSet<LeThuyQuynh123.Models.LTQ> LTQ { get; set; }
     }

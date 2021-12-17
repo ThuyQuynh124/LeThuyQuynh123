@@ -168,3 +168,8 @@ C:\LeThuyQuynh123\obj\Debug\net5.0\Razor\Views\Companys\Delete.cshtml.g.cs
 C:\LeThuyQuynh123\obj\Debug\net5.0\Razor\Views\Companys\Details.cshtml.g.cs
 C:\LeThuyQuynh123\obj\Debug\net5.0\Razor\Views\Companys\Edit.cshtml.g.cs
 C:\LeThuyQuynh123\obj\Debug\net5.0\Razor\Views\Companys\Index.cshtml.g.cs
+C:\LeThuyQuynh123\obj\Debug\net5.0\Razor\Views\LTQs\Create.cshtml.g.cs
+C:\LeThuyQuynh123\obj\Debug\net5.0\Razor\Views\LTQs\Delete.cshtml.g.cs
+C:\LeThuyQuynh123\obj\Debug\net5.0\Razor\Views\LTQs\Details.cshtml.g.cs
+C:\LeThuyQuynh123\obj\Debug\net5.0\Razor\Views\LTQs\Edit.cshtml.g.cs
+C:\LeThuyQuynh123\obj\Debug\net5.0\Razor\Views\LTQs\Index.cshtml.g.cs
